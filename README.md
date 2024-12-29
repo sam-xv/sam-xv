@@ -1,16 +1,11 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/sam-xv/Frontend-Mentor-Projects/refs/heads/main/github-header-image.png"  />
-</div>
-
 ###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sam-xv.sam-xv&left_text=Profile%20Views"  />
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Sanjeev</h1>
+<h1 align="left">Hey there 👋, I'm Sanjeev ➤ </>👨‍💻⚽🎮</h1>
 
 ###
 
